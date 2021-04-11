@@ -1,0 +1,13 @@
+{
+  "name": "amazon",
+  "displayName": "amazon",
+  "expo": {
+    "name": "amazon",
+    "slug": "amazon",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.satyajeet.amazon"
+    }
+  }
+}
