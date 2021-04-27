@@ -1,6 +1,6 @@
 # amazon-react-native-redux
 
-This Amazon clone project bootstrapped with React Native.
+This Amazon clone project bootstrapped with Expo React Native.
 
 There is Apk file Download link ---> https://1drv.ms/u/s!AonVuqdJuR_sc9r06mqXjUcp7uQ?e=koRA5a
 
@@ -17,4 +17,5 @@ There is Apk file Download link ---> https://1drv.ms/u/s!AonVuqdJuR_sc9r06mqXjUc
 8. React-native-paper
 9. React-native-banner-carousal
 10. React-Redux
+11. React-native-link
 ```
